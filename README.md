@@ -1,7 +1,6 @@
 # Data-Professionals-Survey
 This Repo Contains a Power BI Analysis of A Dataset of A Survey  taken by Data professionals about giving us more information about those who work in the data world and how they feel about their work
-From this analysis I gathered the following
-Certainly! Here are your insights presented in a more appealing and concise manner:
+From this analysis I gathered the following:
 
 **Gender Pay Gap:** Women, on average, earn higher salaries than their male counterparts.
 
