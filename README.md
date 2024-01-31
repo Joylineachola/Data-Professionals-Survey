@@ -1,4 +1,5 @@
 # Data-Professionals-Survey
+![Data Professional Dashboard](Data%20professional%20dashboard.png)
 
 This Repo Contains a Power BI Analysis of A Dataset of A Survey taken by Data professionals about giving us more information about those who work in the data world and how they feel about their work. From this analysis I gathered the following:
 
@@ -13,5 +14,3 @@ This Repo Contains a Power BI Analysis of A Dataset of A Survey taken by Data pr
 - **Preferred Language:** Among data analysts, Python is the top choice for programming, followed closely by R, highlighting the industry's programming language preferences.
 
 - **Positive Work-Life Balance:** It's worth noting that a good number of participants report a positive work-life balance.
-
-![Data Professional Dashboard](Data%20professional%20dashboard.png)
