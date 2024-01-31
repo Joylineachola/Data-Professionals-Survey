@@ -1,16 +1,17 @@
 # Data-Professionals-Survey
-This Repo Contains a Power BI Analysis of A Dataset of A Survey  taken by Data professionals about giving us more information about those who work in the data world and how they feel about their work
-From this analysis I gathered the following:
 
-**Gender Pay Gap:** Women, on average, earn higher salaries than their male counterparts.
+This Repo Contains a Power BI Analysis of A Dataset of A Survey taken by Data professionals about giving us more information about those who work in the data world and how they feel about their work. From this analysis I gathered the following:
 
-**Dominant Role:** The majority of survey participants identify as data analysts, indicating a strong presence in this field.
+- **Gender Pay Gap:** Women, on average, earn higher salaries than their male counterparts.
 
-**Salary Satisfaction:** Interestingly, a significant portion of respondents express dissatisfaction with their current salary.
+- **Dominant Role:** The majority of survey participants identify as data analysts, indicating a strong presence in this field.
 
-**Data Scientist Premium:** Data scientists enjoy a slight salary advantage over data engineers and other professionals in the dataset.
+- **Salary Satisfaction:** Interestingly, a significant portion of respondents express dissatisfaction with their current salary.
 
-**Preferred Language:** Among data analysts, Python is the top choice for programming, followed closely by R, highlighting the industry's programming language preferences
+- **Data Scientist Premium:** Data scientists enjoy a slight salary advantage over data engineers and other professionals in the dataset.
 
-**Positive Work-Life Balance:** It's worth noting that a good number of participants report a positive work-life balance.
-(Data professional dashboard.png)
+- **Preferred Language:** Among data analysts, Python is the top choice for programming, followed closely by R, highlighting the industry's programming language preferences.
+
+- **Positive Work-Life Balance:** It's worth noting that a good number of participants report a positive work-life balance.
+
+![Data Professional Dashboard](Data%20professional%20dashboard.png)
