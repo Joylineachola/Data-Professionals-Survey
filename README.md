@@ -13,3 +13,4 @@ From this analysis I gathered the following:
 **Preferred Language:** Among data analysts, Python is the top choice for programming, followed closely by R, highlighting the industry's programming language preferences
 
 **Positive Work-Life Balance:** It's worth noting that a good number of participants report a positive work-life balance.
+(Data professional dashboard.png)
